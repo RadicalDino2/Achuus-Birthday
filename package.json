@@ -1,0 +1,5 @@
+{
+  "name": "achutti-chechi-birthday",
+  "version": "2.0.0",
+  "scripts": { "build": "node generate-media.js" }
+}
